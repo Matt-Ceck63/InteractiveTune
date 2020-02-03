@@ -13,7 +13,7 @@ GND = GND
 
 State Machines:
 
-Task 1 Statem Machine
+# Task 1 State Machine
 
 ![alt text](task1.PNG)
 
@@ -23,7 +23,7 @@ NO_PRESS: the voltage detected by the ADC is 3.3 volts. When the voltage falls b
 state changes to the corresponding pressed button. In the next cycle it checks if the voltage has fallen out of this range return to the NO PRESS.
 Button debouncing is implemented with a delay of 50ms. 
 
-Task 2
+# Task 2 State Machine
 
 ![alt text](task2.PNG)
 
