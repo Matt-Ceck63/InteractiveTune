@@ -1,4 +1,4 @@
-# Interactive tune
+# Interactive tune control
 
 This project was created and debugged using KeilMicroVision's software on the KL25Z freedom development board.
 And ADC was used to poll the analog buttons. A speaker was used to produce a tune of a certain frequency and sound.
